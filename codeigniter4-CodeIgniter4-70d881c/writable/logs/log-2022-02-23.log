@@ -1,0 +1,35 @@
+CRITICAL - 2022-02-23 11:18:11 --> Too few arguments to function App\Controllers\Home::page(), 0 passed in C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(825): App\Controllers\Home->page()
+#1 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#5 {main}
+CRITICAL - 2022-02-23 11:19:24 --> Too few arguments to function App\Controllers\Home::page(), 0 passed in C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(825): App\Controllers\Home->page()
+#1 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#5 {main}
+CRITICAL - 2022-02-23 11:19:26 --> Too few arguments to function App\Controllers\Home::page(), 0 passed in C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(825): App\Controllers\Home->page()
+#1 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#5 {main}
+CRITICAL - 2022-02-23 11:19:30 --> Too few arguments to function App\Controllers\Home::page(), 0 passed in C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(825): App\Controllers\Home->page()
+#1 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#5 {main}
+CRITICAL - 2022-02-23 11:20:15 --> Too few arguments to function App\Controllers\Home::page(), 0 passed in C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(825): App\Controllers\Home->page()
+#1 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#2 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\wamp64\www\codeIgniter\codeigniter4-CodeIgniter4-70d881c\system\Commands\Server\rewrite.php(43): require_once('C:\\wamp64\\www\\c...')
+#5 {main}
